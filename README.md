@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact **Rock climbing and playing the piano are my favorite hobbies!**
 
+
+*NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ehrenlewis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehrenlewis" height="30" width="40" /></a>
