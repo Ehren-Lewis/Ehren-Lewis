@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Learning React](https://github.com/Ehren-Lewis/BasicReact)
 
-- 📫 How to reach me **Ehren.Lewis@icloud.com**
+- 📫 How to reach me **EhrenLewis0@gmail.com**
 
 - ⚡ Fun fact **Rock climbing and playing the piano are my favorite hobbies!**
 
