@@ -1,20 +1,45 @@
-<h1 align="center">Hi 👋, I'm Ehren Lewis</h1>
-<h3 align="center">A determined full-stack developer from Fort Worth, Texas</h3>
+# Hi, I'm Ehren Lewis
 
-- 🔭 I’m currently working on [My Professional Portfolio Website](https://github.com/Ehren-Lewis/ProfessionalPortfolio)
+Electrical Engineering student at the University of Texas at Arlington
+interested in embedded systems, electronics, robotics, and automation.
 
-- 🌱 I’m currently learning **MongoDB**
+## Engineering Interests
 
-- 👯 I’m looking to collaborate on [Hobby Spot](https://github.com/Ehren-Lewis/HobbySpot)
+- Embedded Systems
+- PCB Design
+- Electronics
+- Robotics
+- IoT
+- Computer Vision
+- Automation
 
-- 🤝 I’m looking for help with [Learning React](https://github.com/Ehren-Lewis/BasicReact)
+## Projects
 
-- 📫 How to reach me **EhrenLewis0@gmail.com**
+### Soil Moisture Monitor
+ESP32 + capacitive soil moisture sensor + MQTT
 
-- ⚡ Fun fact **Rock climbing and playing the piano are my favorite hobbies!**
+- Analog sensor acquisition
+- Sensor calibration
+- Moisture percentage calculation
+- MQTT telemetry
+- Local LED threshold indicator
 
+### Autonomous Rover
+Raspberry Pi + ESP32-C3 + motor control + computer vision
 
-*NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
+[More details...]
+
+### Power Electronics
+Custom PCB designs for buck conversion and battery charging
+
+[More details...]
+
+## Technical Skills
+
+**Embedded:** ESP32, Arduino, MQTT  
+**Hardware:** PCB Design, Sensors, Motor Control, Power Electronics  
+**Software:** C/C++, Python, JavaScript, SQL  
+**Tools:** Git, EasyEDA, Fusion 360, LTspice
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
